@@ -22,4 +22,7 @@ def compare_lexicographic(a: Tuple[float], b: Tuple[float]) -> ComparisonOutcome
     """
     # todo: implement the comparison
     bbbbbbbbbbbbbbbbb
+    a 
+    lot happening 
+    here
     return INDIFFERENT
